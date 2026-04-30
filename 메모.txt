@@ -79,6 +79,7 @@ https://hoazzinews.tistory.com/
   git add . 
   git commit -m "올리고 싶은 명칭"
   git remote add origin "git 저장소 주소"
+  git remote -v (확인)
   git branch -M main  git은 master가 아니라  main 이라서 맞춤
   git push origin main -> 여기까지 해야 파일 올라감
 
